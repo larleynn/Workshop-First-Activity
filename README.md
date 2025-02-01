@@ -1,4 +1,4 @@
-# Workshop-FirstActivity
+# "First Contribution" Challenge
 
 1. Fork this repo.
 2. Create a new file named `about-me.txt`.
